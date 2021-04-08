@@ -36,7 +36,7 @@ ul, li {
 }
 
 header {
-	background: url(../img/микросхемхедер.jpg) no-repeat center top / cover;
+	background: url(/img/микросхемхедер.jpg) no-repeat center top / cover;
 	height: 200px;
 	widht: 1440px;
 	
@@ -129,7 +129,7 @@ header {
 }
 
 footer {
-	background: url(../img/микросхемхедер.jpg) no-repeat center top / cover;
+	background: url(/img/микросхемхедер.jpg) no-repeat center top / cover;
 	font-weight: 500;
 	margin-bottom: 15px;
 	height: 100px;
